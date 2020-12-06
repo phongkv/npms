@@ -10,6 +10,6 @@ https://www.framer.com/api/motion/#quick-start<br /><br />
 
 `3. react-share `<br />
 https://www.npmjs.com/package/react-share<br /><br />
-( Thư viện animation )<br />
+( Thư viện share social )<br />
 
 # server
