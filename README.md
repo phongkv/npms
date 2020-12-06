@@ -1,4 +1,4 @@
-# npms 
+# client 
 `1. react-notifications-component.`<br />
 https://www.npmjs.com/package/react-notifications-component <br /><br />
 `2. react-konva `<br />
@@ -11,3 +11,5 @@ https://www.framer.com/api/motion/#quick-start<br /><br />
 `3. react-share `<br />
 https://www.npmjs.com/package/react-share<br /><br />
 ( Thư viện animation )<br />
+
+# server
