@@ -12,4 +12,9 @@ https://www.framer.com/api/motion/#quick-start<br /><br />
 https://www.npmjs.com/package/react-share<br /><br />
 ( Thư viện share social )<br />
 
+`3. ka-table `<br />
+http://ka-table.com/docs_props.html<br />
+https://www.npmjs.com/package/ka-table<br /><br />
+( Thư viện Table )<br />
+
 # server
