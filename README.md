@@ -1,4 +1,4 @@
-# client 
+# Client 
 `1. react-notifications-component.`<br />
 https://www.npmjs.com/package/react-notifications-component <br /><br />
 `2. react-konva `<br />
@@ -21,4 +21,7 @@ https://www.npmjs.com/package/ka-table<br />
 https://github.com/clauderic/react-sortable-hoc?fbclid=IwAR1QwjIUZHBrBUvCoXosCrhpiCyhd8EC3QSo6wMSbRd6QkRIkXn94gcRKDY<br />
 ( Thư viện Sort and Drag-Drop )<br />
 
-# server
+# Server
+
+# Cheat
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQC8jVcaAxD9NTPf2MMs-uPfY0k17plts8CdaNusu0r4m0dYz5aIn9pUo35mQqqdQqU9B32hh_iVy8v/pubhtml
