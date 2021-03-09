@@ -24,6 +24,10 @@ https://github.com/clauderic/react-sortable-hoc?fbclid=IwAR1QwjIUZHBrBUvCoXosCrh
 `5. React Progress `<br />
 http://milworm.github.io/react-progress-2/<br />
 (Thư viện loading by progress bar)
+
+`6. React Zoom Image `<br />
+https://github.com/strateos/react-map-interaction
+
 # Server
 
 # Cheat
