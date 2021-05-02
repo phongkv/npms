@@ -32,4 +32,7 @@ https://github.com/strateos/react-map-interaction
 # Server
 
 # Cheat
-https://docs.google.com/spreadsheets/d/e/2PACX-1vQC8jVcaAxD9NTPf2MMs-uPfY0k17plts8CdaNusu0r4m0dYz5aIn9pUo35mQqqdQqU9B32hh_iVy8v/pubhtml
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQC8jVcaAxD9NTPf2MMs-uPfY0k17plts8CdaNusu0r4m0dYz5aIn9pUo35mQqqdQqU9B32hh_iVy8v/pubhtml `<br />
+
+`Typescript - React `<br />
+https://github.com/typescript-cheatsheets/react?fbclid=IwAR3aqioLvNYms2-T3a_urZppntyz1A-Mc-7cwvo5rS70aA0Qv_pJOxBv54o
