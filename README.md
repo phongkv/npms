@@ -29,8 +29,13 @@ http://milworm.github.io/react-progress-2/<br />
 `6. React Zoom Image `<br />
 https://github.com/strateos/react-map-interaction
 
-`6. React Scroll `<br />
+`7. React Scroll `<br />
 https://www.npmjs.com/package/react-scroll?fbclid=IwAR3uUxoXfekKT42YUC3Ygn4oJYp30nR-MhJhgdSbM642-nII1tGlwawe6nk
+
+
+`8. SheetJS js-xlsx `<br />
+https://www.npmjs.com/package/react-scroll?fbclid=IwAR3uUxoXfekKT42YUC3Ygn4oJYp30nR-MhJhgdSbM642-nII1tGlwawe6nk
+(Thư viện loading by progress bar)
 
 # Server
 
