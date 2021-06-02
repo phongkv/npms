@@ -34,7 +34,7 @@ https://www.npmjs.com/package/react-scroll?fbclid=IwAR3uUxoXfekKT42YUC3Ygn4oJYp3
 
 
 `8. SheetJS js-xlsx `<br />
-https://www.npmjs.com/package/react-scroll?fbclid=IwAR3uUxoXfekKT42YUC3Ygn4oJYp30nR-MhJhgdSbM642-nII1tGlwawe6nk
+https://www.npmjs.com/package/xlsx
 (Thư viện loading by progress bar)
 
 # Server
