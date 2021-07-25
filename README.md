@@ -38,9 +38,9 @@ https://www.npmjs.com/package/xlsx
 (Thư viện loading by progress bar)
 
 `9. Typescript - React `<br />
-https://github.com/typescript-cheatsheets/react?fbclid=IwAR3aqioLvNYms2-T3a_urZppntyz1A-Mc-7cwvo5rS70aA0Qv_pJOxBv54o
+- https://github.com/typescript-cheatsheets/react?fbclid=IwAR3aqioLvNYms2-T3a_urZppntyz1A-Mc-7cwvo5rS70aA0Qv_pJOxBv54o
 <br />
-https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/basic_type_example/?fbclid=IwAR1sYOc3pTa2cf3FuInF05Y59phX8h5kwcDcsxZXVi_qb0kQ10vLonY-Upk
+- https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/basic_type_example/?fbclid=IwAR1sYOc3pTa2cf3FuInF05Y59phX8h5kwcDcsxZXVi_qb0kQ10vLonY-Upk
 <br />
 # Server
 
