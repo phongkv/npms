@@ -42,8 +42,9 @@ https://www.npmjs.com/package/xlsx
 - https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/basic_type_example/?fbclid=IwAR1sYOc3pTa2cf3FuInF05Y59phX8h5kwcDcsxZXVi_qb0kQ10vLonY-Upk
 <br />
 
-`9. Typescript - React `<br />
+`10. React-smooth-dnd `<br />
 https://www.npmjs.com/package/react-smooth-dnd
+Handle drag and drop
 <br />
 
 
