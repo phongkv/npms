@@ -51,7 +51,6 @@ Handle drag and drop
 # Server
 
 `Cheat` <br />
-https://docs.google.com/spreadsheets/d/e/2PACX-1vQC8jVcaAxD9NTPf2MMs-uPfY0k17plts8CdaNusu0r4m0dYz5aIn9pUo35mQqqdQqU9B32hh_iVy8v/pubhtml `<br />
 
 https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vR_IKR6EYocc52sVABjhuUNlnpzYZ0uF2ozGAE1ctO2JuNGRt2HzWzeTl51Dx_l0A/pubhtml#
 
