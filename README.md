@@ -1,4 +1,4 @@
-# Client 
+# Npm package
 `1. react-notifications-component.`<br />
 https://jossmac.github.io/react-toast-notifications/ <br />
 https://www.npmjs.com/package/react-notifications-component <br /><br />
@@ -48,9 +48,13 @@ Handle drag and drop
 <br />
 
 
-# Server
+# Cheat
 
-`Cheat` <br />
+`General` <br />
+
+https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vR_IKR6EYocc52sVABjhuUNlnpzYZ0uF2ozGAE1ctO2JuNGRt2HzWzeTl51Dx_l0A/pubhtml#
+
+`Git` <br />
 
 https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vR_IKR6EYocc52sVABjhuUNlnpzYZ0uF2ozGAE1ctO2JuNGRt2HzWzeTl51Dx_l0A/pubhtml#
 
