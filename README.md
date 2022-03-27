@@ -56,7 +56,7 @@ https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vR_IKR6EYocc52sVABjhuUNlnpzY
 
 `Git` <br />
 
-https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vR_IKR6EYocc52sVABjhuUNlnpzYZ0uF2ozGAE1ctO2JuNGRt2HzWzeTl51Dx_l0A/pubhtml#
+https://docs.google.com/spreadsheets/d/e/2PACX-1vSQyu2beFnb2Zogk_DydmNP6IgcU_rnx-TNkDH_XaSHPBuaB99zhquIRNo0s0jOV4HpkDPeCVMjf67T/pubhtml#
 
 `Hanhchinhvn `<br />
 https://github.com/madnh/hanhchinhvn
