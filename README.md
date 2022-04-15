@@ -58,5 +58,10 @@ https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vR_IKR6EYocc52sVABjhuUNlnpzY
 
 https://docs.google.com/spreadsheets/d/e/2PACX-1vSQyu2beFnb2Zogk_DydmNP6IgcU_rnx-TNkDH_XaSHPBuaB99zhquIRNo0s0jOV4HpkDPeCVMjf67T/pubhtml#
 
+`Ubuntu command` <br />
+
+https://docs.google.com/spreadsheets/d/e/2PACX-1vSH910ReeXNII9gNLIp5vX9r4FnTLGkZaLZQcLBmDXCqjUiqIcUGM0BO90ZwVZdawSA3MmsGlPBDUK0/pubhtml
+
+
 `Hanhchinhvn `<br />
 https://github.com/madnh/hanhchinhvn
